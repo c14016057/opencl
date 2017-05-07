@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <assert.h>
 #include <CL/cl.h>
-#define MAXKS 256
+#define MAXKS 25600
 #define NUMGPU 3
 #define NUMPF 1
 #define N 100
